@@ -1,5 +1,5 @@
 # github_presentation
-quick workshop
+Quick workshop
 
 
 ## How to use github ?
